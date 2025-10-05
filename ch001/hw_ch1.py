@@ -1,0 +1,6 @@
+print('question 1')
+print('1a','9-3 =', 9 - 3 )
+print()
+print('5/0 =', 'Not possible')
+print(9/2)
+print(9//-2)
